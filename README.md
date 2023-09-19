@@ -10,7 +10,11 @@ General View
 
 ## Dijkstria Shortest Pathfinding Algorithm
 Live Demo
-https://github.com/23032ew/ECE297-Map-Design-Project/blob/main/MyVideo_1%20(1).mp4
+
+
+https://github.com/23032ew/ECE297-Map-Design-Project/assets/59298018/26f17512-529a-4abd-ae87-5afb9f1ecc51
+
+
 
 ## UI Features
 
@@ -19,6 +23,12 @@ https://github.com/23032ew/ECE297-Map-Design-Project/blob/main/MyVideo_1%20(1).m
 
 ## Hover Reveal Text
 ![Text Remainder](https://github.com/23032ew/ECE297-Map-Design-Project/assets/59298018/56ad6c64-ed80-4ded-8568-39693861710c)
+
+
+
+
+
+
 
 
 
